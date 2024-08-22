@@ -1,7 +1,7 @@
 {
-    "name": "neural-network",
+    "name": "cutebot",
     "version": "1.0.0",
-    "description": "Recreate the transmission of electrical signals between neurons using micro:bit",
+    "description": "cutebot robot by elecfreaks",
     "license": "MIT",
     "dependencies": {
         "core": "*"
